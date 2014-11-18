@@ -25,7 +25,7 @@ chartStats <- function(x){
     if(length(b) > 8) b <- rep(NA, 8)
     if(length(b) < 8) {
       empty <- rep(NA, 8)
-      empty[(6 - length(b)):8] <- b
+      empty[(9 - length(b)):8] <- b
       b <- empty
 
     } 
