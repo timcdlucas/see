@@ -8,7 +8,7 @@ Functions to quickly see what a dataset looks like
     z <- data.frame(a = rnorm(50), b = rexp(50), d = runif(50))
 
     see(z)
-'''
+```
 
 gives you
 
