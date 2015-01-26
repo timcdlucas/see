@@ -2,7 +2,7 @@
 # A function to plot dataframes with histograms for each column.
 
 # Example
-# z <- data.frame(a = rnorm(50), b = rexp(50), d = runif(50))
+# z <- data.frame(a = rnorm(100), b = rexp(100), d = runif(100))
 # see(z)
 
 
