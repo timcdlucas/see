@@ -13,3 +13,6 @@ Functions to quickly see what a dataset looks like
 gives you
 
 ![Example histograms on a dataframe](example.png)
+
+
+I'd like to do more with this, but struggling for ideas. Get in touch or take the code so far and do something with it please!
